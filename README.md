@@ -1,4 +1,4 @@
-# ChatGPT-website(纯前端版)
+# 项目来源
 
 #### 介绍
 
@@ -20,12 +20,6 @@
 
 1.  拒绝白嫖，如果此小项目帮助到了您，希望能得到您的star!
 2.  项目开源代理：[https://github.com/geekr-dev/openai-proxy](https://github.com/geekr-dev/openai-proxy) 点个 Star 支持作者
-3.  此项目适合小白，主打简洁，可不断完善！
-4.  对于项目如有疑问，可点击项目页面“@联系我”，在我的博客中私信！
-5.  此项目为紧急搭建，会不断完善页面效果！
-6.  体验地址：我用的是github pages->: [https://aniuyyds.github.io/ChatGPT-website/](https://aniuyyds.github.io/ChatGPT-website/)
-7.  部署教程：https://blog.csdn.net/qq_57421630/article/details/130040548
-8.  项目后端版本：https://gitee.com/aniu-666/chat-gpt-website/tree/master/
 #### 项目效果
 
 ![输入图片说明](示例图.png)
